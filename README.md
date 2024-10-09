@@ -7,7 +7,7 @@ This project aims at helping developers to create CLI tools and distribute it.
 3. Clone the GIT project in your directory/workspace
 3. Create a python virtual environment in your directory
 
-## Steps to create your first CLI tool
+## Steps to create your first CLI automation tool and distribute it
 
 1. Install dependencies using pip. Refer requirements.txt
 
