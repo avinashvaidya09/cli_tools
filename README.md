@@ -1,6 +1,12 @@
 ## Introduction
 This project aims at helping developers to create CLI tools and distribute it.
 
+## Pre-requisites
+1. You have installed Python  (At the time of writing this, I have 3.12.4 installed)
+2. IDE - Visual Studio Code 
+3. Clone the GIT project in your directory/workspace
+3. Create a python virtual environment in your directory
+
 ## Steps to create your first CLI tool
 
 1. Install dependencies using pip. Refer requirements.txt
