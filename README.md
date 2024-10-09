@@ -1,4 +1,7 @@
-## Simple steps to start
+## Introduction
+This project aims at helping developers to create CLI tools and distribute it.
+
+## Steps to create your first CLI tool
 
 1. Install dependencies using pip. Refer requirements.txt
 
@@ -56,12 +59,12 @@ agent_automation --help
 agent_automation read-json --file /path/of/the/json/file/sample.json
 ``` 
 
-10. <span style="color:Orange">[OPTIONAL]</span> To distribute the wheel package to PyPi, you have to install twine
+11. <span style="color:Orange">[OPTIONAL]</span> To distribute the wheel package to PyPi, you have to install twine
 ```
 pip3 install twine
 ```
 
-11. <span style="color:Orange">[OPTIONAL]</span> Upload to Pypi. You will need Pypi account
+12. <span style="color:Orange">[OPTIONAL]</span> Upload to Pypi. You will need Pypi account and api token.
 ```
 twine upload dist/*
 ```
