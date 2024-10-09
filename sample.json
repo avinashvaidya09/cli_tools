@@ -1,0 +1,42 @@
+{
+    "tasks":[
+        {
+            "name":"cooking",
+            "description": "In Kitchen",
+            "tool_ids": ["tool1", "tool2"]
+        },
+        {
+            "name":"gardening",
+            "description": "In Garden",
+            "tool_ids": ["tool1"]
+        }
+    ],
+    "tools": [
+        {
+            "id":"tool1",
+            "attributes": [
+                {
+                    "name":"fork",
+                    "type": "str"
+                },
+                {
+                    "name":"spoon",
+                    "type": "str"
+                }
+            ]
+        },
+        {
+            "id":"tool2",
+            "attributes": [
+                {
+                    "name":"showel",
+                    "type": "str"
+                },
+                {
+                    "name":"bucket",
+                    "type": "str"
+                }
+            ]
+        }
+    ]
+}
