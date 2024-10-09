@@ -73,3 +73,4 @@ twine upload dist/*
 
 1. https://click.palletsprojects.com/en/8.1.x/
 2. https://realpython.com/python-wheels/
+3. https://opensource.org/license/mit
